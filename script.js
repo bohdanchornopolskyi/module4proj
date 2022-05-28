@@ -1,4 +1,4 @@
-var names=["Gulmira","Joel","maksimilijan","Rajesh","john","issabela","jason","Adam","josipa",];
+var names=["Yaakov","John","Jen","jason","paul","frank","larry","paula","laura","jim"];
 
 for (var i = 0; i < names.length; i++) {
 	if(names[i][0].toLowerCase()==='j'){
